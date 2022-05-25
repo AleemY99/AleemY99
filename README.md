@@ -1,4 +1,4 @@
-## Hello, I'm Aleem. 
+## Hello, I'm Aleem. :smile:
 
 ### - I'm a CS and Data Science student 
 ### - Currently I'm working on an art business website for a client
@@ -9,7 +9,7 @@
 
 <br />
 
-## Languages and Tools:
+## Languages and Tools: 🧰
 
 ### - Java and JavaFX
 ### - Python, numpy
@@ -20,5 +20,5 @@
 
 <br />
 
-## Connect with me:
+## Connect with me: 📬
 https://www.linkedin.com/in/aleem-yawar-480620102
