@@ -2,10 +2,10 @@
 
 ### - I'm a CS and Data Science student 
 ### - Currently I'm working on an art business website for a client
-### - I'm also learning everything related to CS!
+### - I'm also learning everything related to CS
 ### - I'm looking to contribute to Open Source projects
 ### - 2022 Goals: To apply my knowledge to one large project
-### - Fun Fact about me: I love playing chess. Give me an invite over at https://lichess.org/@/thing-in-itself
+### - I enjoy playing chess. Give me an invite over at https://lichess.org/@/thing-in-itself
 
 <br />
 
