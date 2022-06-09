@@ -5,7 +5,7 @@
 ### - I'm also learning everything related to CS
 ### - I'm looking to contribute to Open Source projects
 ### - 2022 Goals: To apply my knowledge to one large project
-### - I enjoy playing chess. Give me an invite over at https://lichess.org/@/thing-in-itself
+### - I enjoy playing chess. Give me an invite over at https://lichess.org/@/aleem99
 
 <br />
 
